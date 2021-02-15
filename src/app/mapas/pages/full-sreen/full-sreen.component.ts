@@ -5,12 +5,7 @@ import * as mapboxgl from 'mapbox-gl';
 @Component({
   selector: 'app-full-sreen',
   templateUrl: './full-sreen.component.html',
-  styles: [`
-  #mapa {
-    width: 100%;
-    height: 100%;
-  }
-  `]
+  styles: [``]
 })
 export class FullSreenComponent implements OnInit {
 
